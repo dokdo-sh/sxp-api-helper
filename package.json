@@ -1,6 +1,6 @@
 {
     "name": "sxp-api-helper",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "This package file is for all the dependencies for SXP API Helper",
     "main": "index.js",
     "repository": {
