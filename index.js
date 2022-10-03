@@ -2,9 +2,6 @@
  * @license MIT
  */
 
-module.exports = {
-    /*SXP*/
-    sxpApi: require('./lib/sxpApi'),
-    tsxpApi: require('./lib/tsxpApi'),
-    sslpApi: require('./lib/sslpApi')
-}
+export const sxpApi = require('./lib/sxpApi');
+export const tsxpApi = require('./lib/tsxpApi');
+export const sslpApi = require('./lib/sslpApi');
